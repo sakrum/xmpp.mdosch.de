@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/apps/conversations/</loc>
+    <lastmod>2017-11-04T17:30:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/was-ist-xmpp/</loc>
+    <lastmod>2017-11-04T12:01:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/apps/chatsecure/</loc>
+    <lastmod>2017-11-04T21:30:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/serverwahl/</loc>
+    <lastmod>2017-11-04T12:54:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/apps/gajim/</loc>
+    <lastmod>2017-11-04T21:31:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/apps/</loc>
+    <lastmod>2017-11-04T17:30:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/apps/swift/</loc>
+    <lastmod>2017-11-05T09:32:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/danksagungen/</loc>
+    <lastmod>2017-11-04T21:35:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/impressum/</loc>
+    <lastmod>2017-11-04T19:23:05+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-11-04T12:01:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

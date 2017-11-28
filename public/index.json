@@ -1,0 +1,92 @@
+[
+{
+	"uri": "/apps/conversations/",
+	"title": "Conversations",
+	"tags": [],
+	"description": "",
+	"content": " ToDo:\n Screenshot Batterieoptimierung OMEMO? Auf mehrere Seiten aufsplitten? Adressbuchzugriff? Hinweis auf Einladungsseite  Hier wird die Installation, Einrichtung und Benutzung der Android-App Conversations beschrieben.\nInstallation Play-Store Conversations bezieht man am einfachsten aus dem Google Play Store für 2,39€. Dieser Preis ist gemessen an der Qualität der App sehr niedrig und ich empfehle jedem ihn auszugeben. Es ist deutlich weniger als ein Bier in der Kneipe. Wer gerne Sprachnachrichten versenden möchte installiert auch gleich das Voice Recorder Plugin und wer seinen aktuellen Standort als Sofortnachricht verschicken möchte das Share Location Plugin.\nWenn ihr keine Möglichkeit habt im Play-Store zu bezahlen könnt ihr Conversations aus dem F-Droid Store beziehen.\nWer Conversations im Play Store gekauft hat kann die Anleitung zu F-Droid überspringen.\nF-Droid Conversations gibt es kostenlos im F-Droid Store. Diesen könnt ihr hier herunterladen. Zum Installieren von F-Droid muss man in Android zulassen, dass Apps aus fremden Quellen installiert werden können. Dies könnt ihr unter Einstellungen → Sicherheit → Unbekannte Herkunft einstellen.\nEs ist eine Sicherheitsfunktion von Android die Installation aus unbekannter Herkunft standardmäßig zu deaktivieren. Neuere Android-Versionen bieten die Möglichkeit an, die Installation nur einmalig zu erlauben. Wenn eure Android-Version das anbietet, solltet ihr diese Funktion nutzen. Ihr müsst dann zur Installation von F-Droid, zur Installation von Conversations und bei jedem Update von Conversations einmalig die Installation aus unbekannten Quellen erlauben. Das ist lästig, aber sicherer als es generell zu erlauben.\n Nach der Installation von F-Droid kann man nun Conversations über F-Droid installieren. Nachdem man die F-Droid App geöffnet hat drückt man auf das Lupensymbol und tippt \u0026ldquo;Conversations\u0026rdquo; ein. Im folgenden Screenshot sieht man Conversations als zweiten Treffer der Suche.\nWer auch Sprachnachrichten versenden möchte installiert auch das Voice Recorder Plugin das man im vorigen Bild als letzten Treffer sehen kann.\nEinrichtung Wer sich bereits einen Account auf einem Server angelegt hat kann mit Vorhandenen Account nutzen fortfahren. Wer die InBand-Registrierung nutzen möchte hat die Wahl zwischen einer Registrierung bei conversations.im (die Nutzung dieses Servers kostet nach einem kostenlosen halben Jahr 8€ / Jahr) oder einem Server aus dieser Liste. Wer sich für letzters entscheided springt weiter zur Anleitung für andere Server.\nInBand-Registrierung Conversations.im Um einen Account bei conversations.im anzulegen wählt man im Startbildschirm Konto erstellen.\nAls nächstes wählt man den gewünschten Benutzernamen aus.\nNun muss man ein Passwort wählen, ein Captcha lösen und schon ist die Registrierung abgeschlossen.\nAbschließend kann man, wenn man möchte, ein Avatar (Benutzerbild) setzen oder diesen Schritt überspringen.\nJetzt geht es weiter mit ein paar Hinweisen zur Benutzung.\nAndere Server Um einen Account bei einem Server anzulegen wählt man im Startbildschirm Nutze eigenen Provider.\nIm nächstem Bildschirm gibt man den gewünschten Namen ein und vergibt ein Passwort. Dann setzt man den Haken bei Neues Konto auf dem Server erstellen und trägt das Passwort ein zweites Mal zur Bestätigung ein.\nAbschließend kann man, wenn man möchte, ein Avatar (Benutzerbild) setzen oder diesen Schritt überspringen.\nJetzt geht es weiter mit ein paar Hinweisen zur Benutzung.\nVorhandenen Account nutzen Um einen vorhandenen Account in Conversations zu nutzen wählt man im Startbildschirm Nutze eigenen Provider.\nIm folgenden Bildschirm gibt man den Benutzernamen und das Passwort des vorhandenen Accounts ein.\nAbschließend kann man, wenn man möchte, ein Avatar (Benutzerbild) setzen oder diesen Schritt überspringen.\nBenutzung Kontakte hinzufügen Nach der Anmeldung präsentiert sich Conversations mit einem recht leeren Fenster. Um einen Kontakt hinzuzufügen klickt man auf das Symbol mit dem +.\nNun gibt man im Feld Jabber-ID die JID des Kontakts ein.\nDer Kontakt erscheint darauf in der Kontaktliste und man kann mit dem Kontakt chatten nachdem man auf den Namen klickt.\nEine Kontaktanfrage beantworten Wird man selbst von jemand anderem zu dessen Kontaktliste hinzugefügt, den man selbst noch nicht als Kontakt gespeichert hat kann man diese Person als Kontakt speichern indem man auf Auch hinzufügen klickt.\nIm folgenden Fenster setzt man beide Häkchen, damit man gegenseitig sehen kann ob der Kontakt gerade online ist.\nEinen Gruppenchat betreten "
+},
+{
+	"uri": "/was-ist-xmpp/",
+	"title": "Was ist XMPP?",
+	"tags": [],
+	"description": "",
+	"content": "XMPP ist ein Chatprotokoll über das Sofortnachrichten ausgetauscht werden können. Das bekannteste Programm dieser Art ist WhatsApp, weshalb hier zum besseren Verständnis die Unterschiede zwischen XMPP und WhatsApp aufgezeigt werden.\nBei WhatsApp muss man sich nicht registrieren sondern wird anhand der Telefonnummer identifiziert und man sieht automatisch welche Kontakte aus dem Telefonbuch auch WhatsApp benutzen. Das ist bei XMPP anders. XMPP funktioniert eher wie Email: Es gibt verschiedene Server bei denen man sich anmelden kann und man erhält dann eine Adresse in der Form user@example.org. In diesem Beispiel hätte man sich einen Account mit dem Benutzernamen user auf dem Server example.org angelegt. Diese Adresse, die aussieht wie eine Email-Adresse, heißt bei bei XMPP Jabber Identifier und wird mit JID abgekürzt.\nDiese JID könnt ihr nun Kontakten geben und diese können euch zu ihrer Kontaktliste hinzufügen und mit euch Nachrichten austauschen. Dies funktioniert auch wenn ihr euren XMPP-Account auf unterschiedlichen Servern habt. Also analog zur Email, wo es auch keine Rolle spielt ob ihr eure Email-Adresse bei GMX, Web.de, Yahoo oder Gmail habt um Emails an Benutzer bei irgendeinem anderen Server zu senden.\nXMPP funktioniert also eher wie Email als wie WhatsApp. Das hat natürlich den Nachteil, dass man sich einen Server aussuchen, sich dort registrieren, anschließend Benutzernamen und Passwort in das Programm eintragen und dann noch Kontaktdaten austauschen muss und nicht sofort losschreiben kann wie bei WhatsApp.\nEs bringt aber auch einige Vorteile mit sich:\n Man kann den selben XMPP-Account auf mehreren Geräten nutzen Man kann auf einem Gerät mehrere XMPP-Accounts nutzen (z.B. einen für Freunde und einen für Arbeitskollegen, den man am Wochenende und im Urlaub deaktiviert) Man muss nicht jedem mit dem man Nachrichten austauschen möchte die eigene Telefonnummer geben   Auf dieser Seite werden ein paar Hilfestellungen zur Auswahl des Servers, der Registrierung, der Auswahl der App, der Einrichtung und der Benutzung gegeben.\n"
+},
+{
+	"uri": "/apps/chatsecure/",
+	"title": "Chatsecure",
+	"tags": [],
+	"description": "",
+	"content": "#tbd\n"
+},
+{
+	"uri": "/serverwahl/",
+	"title": "Serverwahl",
+	"tags": [],
+	"description": "",
+	"content": " Wer die Wahl hat\u0026hellip; \u0026hellip;hat die Qual.\nEs gibt sehr viele XMPP-Server und für einen Neuling ist es sicher schwer eine Wahl zu treffen. Nicht jeder Server unterstützt bereits alle gängigen Features und man möchte ja nicht bei einem Server landen der dann Probleme macht. Glücklicherweise haben die Datenschutzhelden eine gute Liste mit empfehlenswerten Servern erstellt. Wenn man einen dieser Server wählt macht man schon mal nichts falsch. Die finale Auswahl kann man dann treffen indem man einfach den Server aus der Liste wählt, dessen Name einem am besten zusagt. Schließlich wird dieser dann ein Teil eurer JID, eurer XMPP-Adresse, sein.\nFortgeschrittene oder Interessierte, die im Detail wissen wollen anhand welcher Kriterien diese Liste erstellt wurde, können das bei den Datenschutzhelden nachlesen.\nEin sehr empfehlenswerter Server taucht in dieser Liste leider nicht auf: conversations.im. Wahrscheinlich weil dieser Server im Gegensatz zu den anderen nicht kostenlos ist, sondern ein halbes Jahr kostenlos nutzbar ist und danach 8€ pro Jahr kostet. Wer es sich leisten kann sollte einen Account dort in Erwägung ziehen. Für die Gebühr erhält man einen Server der vorbildlich gepflegt wird und alle neuen Funktionen unterstützt. Conversations.im unterstützt nur InBand-Registrierung.\nRegistrierung Einige Server bieten nur eine Registrierung über ein Webformular an, andere nur die sogenannte InBand-Registrierung und manche beides. Hier wird an einem Beispiel die Registrierung über ein Webformular erklärt. Da die Art und Weise wie eine InBand-Registrierung durchgeführt wird stark von der App bzw. vom Client abhängt, wird die InBand-Registrierung nicht hier, sondern in der Anleitung zur jeweiligen App detailliert beschrieben.\nWebformular Die Registrierung über ein Webformular läuft ab wie eine normale Registrierung bei einer Webseite oder einem Email-Anbieter.\nAls Beispiel nehme ich den Server dismail.de aus der oben genannten Liste. Möchte man dort seinen XMPP-Account anlegen ruft man die Seite auf und findet dort in der Navigationsleiste den Punkt Register über welchen man zum Registrierungsformular gelangt:\nIn das Formular trägt man nun den gewünschten Benutzernamen und das Passwort ein, löst die Rechenaufgabe und klickt auf den Button Register. Nun kann man sich mit diesen Benutzerdaten mit der App der Wahl einloggen.\nInBand-Registrierung InBand-Registrierung heißt, dass die Registrierung nicht über ein Webformular vorgenommen werden muss sondern direkt in der App bzw. im Client geschieht. Da die Vorgehensweise clientspezifisch ist wird hier nicht darauf eingegangen sondern auf die Clients verwiesen, welche InBand-Registrierungen beherrschen:\n Android: Conversations iOS: ChatSecure Linux: Gajim macOS: Swift Windows: Gajim  "
+},
+{
+	"uri": "/apps/gajim/",
+	"title": "Gajim",
+	"tags": [],
+	"description": "",
+	"content": " Installation Gajim ist ein XMPP-Client für den Desktop, der neben anderen Systemen, für Linux und Windows verfügbar ist. Hier wird die Installation, Einrichtung und grundlegende Benutzung erklärt.\nLinux Gajim ist in den Paketquellen, bzw. Software-Stores, aller gängigen Distributionen enthalten und sollte über diese installiert werden. Sollte dies nicht der Fall sein gibt fertige Installationspakete für die meisten Distributionen.\nWindows Gajim bezieht man, indem man auf dieser Webseite auf \u0026ldquo;Gajim-Installationsdatei\u0026rdquo; klickt. Die heruntergeladene Exe-Datei lässt sich wie gewohnt installieren.\nEinrichtung Das weitere Vorgehen hängt davon ab ob man bei der Serverwahl bereits einen Account über ein Webformular erstellt hat oder einen Anbieter mit InBand-Registrierung gewählt hat und diese nutzen möchte. Wer sich bereits einen Account angelegt hat kann weiter zu Vorhandenen Account nutzen springen.\nInBand-Registrierung Vorhandenen Account nutzen Benutzung "
+},
+{
+	"uri": "/apps/",
+	"title": "Apps / Clients",
+	"tags": [],
+	"description": "",
+	"content": "Nachdem nun ein Account auf einem Server erstellt wurde gilt es die App bzw. den Client zu installieren um den XMPP-Account auch nutzen zu können.\nIch werde hier pro gängigem Betriebssystem nur einen Client vorstellen, obwohl es deutlich mehr (Betriebssysteme und XMPP-Clients) gibt.\n Android: Conversations iOS: ChatSecure Linux: Gajim macOS: Swift Windows: Gajim  "
+},
+{
+	"uri": "/apps/swift/",
+	"title": "Swift",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/danksagungen/",
+	"title": "Danksagungen",
+	"tags": [],
+	"description": "",
+	"content": " Viele Leute haben dazu beigetragen, dass diese Seite eine gute Hilfe in den XMPP-Einstieg werden konnte und noch viel mehr Leute haben dazu beigetragen, dass XMPP ein gutes Chatprotokoll wurde und tragen auch weiterhin dazu bei, dass dies so bleibt.\nHier möchte ich mich bei allen bedanken, die entweder dieser Seite oder XMPP geholfen haben. Sollte ich jemand vergessen haben dann teilt mir das bitte mit.\nHelfer dieser Seite  Datenschutzhelden - Danke für die Erstellung der Serverliste DocDock - Danke für dieses schöne Theme Ge0rg - Danke für die Vorlage der Einladungsseite Hugo - Danke für diesen einfachen Webseitengenerator  XMPP-Helden  ChatSecure Conversations Ejabberd Gajim Prosody Swift XSF  *ToDo: Mit Links füllen und erklären wofür Dank gebührt.\n"
+},
+{
+	"uri": "/impressum/",
+	"title": "Impressum",
+	"tags": [],
+	"description": "",
+	"content": " \u0026ldquo;Verantwortlich\u0026rdquo; nach § 5 TMG / § 55 RStV:\nMartin Dosch\nEmail: spam-xmpp[@mdosch.de]\nXMPP: martin@mdosch.de\n1. Haftungsbeschränkung Die Inhalte dieser Website werden mit größtmöglicher Sorgfalt erstellt. Der Anbieter übernimmt jedoch keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Inhalte. Die Nutzung der Inhalte der Website erfolgt auf eigene Gefahr des Nutzers. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Mit der reinen Nutzung der Website des Anbieters kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande.\n2. Externe Links Diese Website enthält Verknüpfungen zu Websites Dritter (“externe Links”). Diese Websites unterliegen der Haftung der jeweiligen Betreiber. Der Anbieter hat bei der erstmaligen Verknüpfung der externen Links die fremden Inhalte daraufhin überprüft, ob etwaige Rechtsverstöße bestehen. Zu dem Zeitpunkt waren keine Rechtsverstöße ersichtlich. Der Anbieter hat keinerlei Einfluss auf die aktuelle und zukünftige Gestaltung und auf die Inhalte der verknüpften Seiten. Das Setzen von externen Links bedeutet nicht, dass sich der Anbieter die hinter dem Verweis oder Link liegenden Inhalte zu Eigen macht. Eine ständige Kontrolle der externen Links ist für den Anbieter ohne konkrete Hinweise auf Rechtsverstöße nicht zumutbar. Bei Kenntnis von Rechtsverstößen werden jedoch derartige externe Links unverzüglich gelöscht.\n3. Urheber- und Leistungsschutzrechte Eigene Inhalte werden unter CC BY-SA veröffentlicht, davon ausgenommen sind als Zitat gekennzeichnete Stellen oder Beiträge in denen ausdrücklich auf eine andere Lizenz hingewiesen wird.\nDie Darstellung dieser Website in fremden Frames ist nur mit schriftlicher Erlaubnis zulässig.\n4. Datenschutz Durch den Besuch der Website des Anbieters können Informationen über den Zugriff (Datum, Uhrzeit, betrachtete Seite) gespeichert werden. Diese Daten gehören nicht zu den personenbezogenen Daten, sondern sind anonymisiert. Sie werden ausschließlich zu statistischen Zwecken ausgewertet. Eine Weitergabe an Dritte, zu kommerziellen oder nichtkommerziellen Zwecken, findet nicht statt.\nDer Anbieter weist ausdrücklich darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen und nicht lückenlos vor dem Zugriff durch Dritte geschützt werden kann.\nDie Verwendung der Kontaktdaten des Impressums zur gewerblichen Werbung ist ausdrücklich nicht erwünscht, es sei denn der Anbieter hatte zuvor seine schriftliche Einwilligung erteilt oder es besteht bereits eine Geschäftsbeziehung. Der Anbieter und alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Verwendung und Weitergabe ihrer Daten.\n5. Besondere Nutzungsbedingungen Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorgenannten Nummern 1. bis 4. abweichen, wird an entsprechender Stelle ausdrücklich darauf hingewiesen. In diesem Falle gelten im jeweiligen Einzelfall die besonderen Nutzungsbedingungen.\nQuelle: http://www.juraforum.de\n"
+},
+{
+	"uri": "/",
+	"title": "Eine kleine Einführung in XMPP",
+	"tags": [],
+	"description": "",
+	"content": " Eine kleine Einführung in XMPP Hallo, wahrscheinlich bist du auf diese Seite über einen Link gekommen weil jemand mit dir über XMPP kommunizieren möchte.\nDu weißt nicht was XMPP ist und wie man es benutzt?\nKeine Sorge, diese Seite ist dafür da dies zu erklären und so kompliziert ist es auch nicht.\nEs gibt viele Dienste für Sofortnachrichten wie z.B. WhatsApp, Telegram, Threema, Signal, Line, WeChat, Viber und wahrscheinlich viele mehr. Ein Protokoll für Sofortnachrichten, dass es schon lange gibt das aber leider viele nicht kennen ist XMPP, teilweise auch Jabber® genannt.\nDiese Seite soll Interessierte, die XMPP nutzen möchten, sich damit aber noch nicht auskennen, ein bisschen an die Hand nehmen und den Einstieg erleichtern. Wer bereits XMPP nutzt wird hier vermutlich nichts Neues erfahren, ist aber trotzdem herzlich eingeladen die Seite zu betrachten und Feedback zu geben, wenn etwas falsch ist oder noch besser ausgearbeitet werden könnte.\n"
+},
+{
+	"uri": "/_header/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eine kleine Einführung in XMPP</title>
+    <link>/</link>
+    <description>Recent content on Eine kleine Einführung in XMPP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 04 Nov 2017 12:01:59 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conversations</title>
+      <link>/apps/conversations/</link>
+      <pubDate>Sat, 04 Nov 2017 17:30:32 +0100</pubDate>
+      
+      <guid>/apps/conversations/</guid>
+      <description>ToDo:
+ Screenshot Batterieoptimierung OMEMO? Auf mehrere Seiten aufsplitten? Adressbuchzugriff? Hinweis auf Einladungsseite  Hier wird die Installation, Einrichtung und Benutzung der Android-App Conversations beschrieben.
+Installation Play-Store Conversations bezieht man am einfachsten aus dem Google Play Store für 2,39€. Dieser Preis ist gemessen an der Qualität der App sehr niedrig und ich empfehle jedem ihn auszugeben. Es ist deutlich weniger als ein Bier in der Kneipe. Wer gerne Sprachnachrichten versenden möchte installiert auch gleich das Voice Recorder Plugin und wer seinen aktuellen Standort als Sofortnachricht verschicken möchte das Share Location Plugin.</description>
+    </item>
+    
+    <item>
+      <title>Chatsecure</title>
+      <link>/apps/chatsecure/</link>
+      <pubDate>Sat, 04 Nov 2017 21:30:47 +0100</pubDate>
+      
+      <guid>/apps/chatsecure/</guid>
+      <description>#tbd</description>
+    </item>
+    
+    <item>
+      <title>Gajim</title>
+      <link>/apps/gajim/</link>
+      <pubDate>Sat, 04 Nov 2017 21:31:47 +0100</pubDate>
+      
+      <guid>/apps/gajim/</guid>
+      <description>Installation Gajim ist ein XMPP-Client für den Desktop, der neben anderen Systemen, für Linux und Windows verfügbar ist. Hier wird die Installation, Einrichtung und grundlegende Benutzung erklärt.
+Linux Gajim ist in den Paketquellen, bzw. Software-Stores, aller gängigen Distributionen enthalten und sollte über diese installiert werden. Sollte dies nicht der Fall sein gibt fertige Installationspakete für die meisten Distributionen.
+Windows Gajim bezieht man, indem man auf dieser Webseite auf &amp;ldquo;Gajim-Installationsdatei&amp;rdquo; klickt.</description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>/apps/swift/</link>
+      <pubDate>Sun, 05 Nov 2017 09:32:28 +0100</pubDate>
+      
+      <guid>/apps/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/_header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/_header/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
