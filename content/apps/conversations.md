@@ -7,7 +7,6 @@ weight: 1
 
 **ToDo:**
 
-* Screenshot Batterieoptimierung
 * OMEMO?
 * Auf mehrere Seiten aufsplitten?
 * Adressbuchzugriff?
@@ -136,6 +135,21 @@ diesen Schritt überspringen.
 ![Conversations Avatar wählen](/images/conversations/avatar2.jpg?height=400px)
 
 ### Benutzung
+
+#### Batterieoptimierung deaktivieren
+
+Wenn Conversations fragt ob man die **Batterieoptimierung deaktivieren** möchte,
+sollte man dies erlauben. Androids Batterieoptimierung könnte sonst im Hintergrund
+Conversations beenden und man erhält keine Benachrichtung über neue Nachrichten
+mehr bis man die App wieder öffnet. Der Akkuverbrauch von Conversations ist so
+gering, dass man das ohne Bedenken erlauben kann.
+
+![Conversations Hinweis Batterieoptimierung](/images/conversations/batterie_hinweis.jpg?height=400px)
+
+Nach einem Klick auf **Weiter** im Hinweis-PopUp bestätigt man mit Klick auf
+**Ja** die Deaktivierung.
+
+![Conversations Batterieoptimierung deaktivieren](/images/conversations/batterieoptimierung.jpg?height=200px)
 
 #### Kontakte hinzufügen
 
