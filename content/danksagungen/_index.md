@@ -28,7 +28,7 @@ jemand vergessen haben dann [teilt mir das bitte mit][10].
 * [Gajim][230] - Ein guter Client für Linux und Windows
 * [Prosody][240] - Ein guter XMPP Server
 * [Swift][250] - Ein guter Client für Linux, macOS und Windows
-* [XSF][260] - Die **XMPP Standards Foundation**, die sich um die Weiterentlung von XMPP kümmert
+* [XSF][260] - Die **XMPP Standards Foundation**, die sich um die Weiterentwicklung von XMPP kümmert
 
 
 [10]:/invite/#martin@mdosch.de
