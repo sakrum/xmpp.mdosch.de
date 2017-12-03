@@ -144,7 +144,7 @@ Conversations beenden und man erhält keine Benachrichtung über neue Nachrichte
 mehr bis man die App wieder öffnet. Der Akkuverbrauch von Conversations ist so
 gering, dass man das ohne Bedenken erlauben kann.
 
-![Conversations Hinweis Batterieoptimierung](/images/conversations/batterie_hinweis.jpg?height=400px)
+![Conversations Hinweis Batterieoptimierung](/images/conversations/batterie_hinweis.jpg?height=200px)
 
 Nach einem Klick auf **Weiter** im Hinweis-PopUp bestätigt man mit Klick auf
 **Ja** die Deaktivierung.
