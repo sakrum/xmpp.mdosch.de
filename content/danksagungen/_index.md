@@ -22,18 +22,24 @@ jemand vergessen haben dann [teilt mir das bitte mit][10].
 
 ### XMPP-Helden
 
-* ChatSecure
-* Conversations
-* Ejabberd
-* Gajim
-* Prosody
-* Swift
-* XSF
+* [ChatSecure][200] - Ein guter Client für iOS
+* [Conversations][210] - Ein guter Client für Android
+* [Ejabberd][220] - Ein guter XMPP Server
+* [Gajim][230] - Ein guter Client für Linux und Windows
+* [Prosody][240] - Ein guter XMPP Server
+* [Swift][250] - Ein guter Client für Linux, macOS und Windows
+* [XSF][260] - Die **XMPP Standards Foundation**, die sich um die Weiterentlung von XMPP kümmert
 
-**ToDo: Mit Links füllen und erklären wofür Dank gebührt.*
 
 [10]:/invite/#martin@mdosch.de
-[100]:https://datenschutzhelden.org
+[100]:https://datenschutzhelden.org/
 [110]:http://docdock.netlify.com/
-[120]:https://github.com/ge0rg/easy-xmpp-invitation
-[130]:https://gohugo.io
+[120]:https://github.com/ge0rg/easy-xmpp-invitation/
+[130]:https://gohugo.io/
+[200]:https://chatsecure.org/
+[210]:https://conversations.im/
+[220]:https://www.ejabberd.im/
+[230]:https://gajim.org/
+[240]:https://prosody.im/
+[250]:https://swift.im/
+[260]:https://xmpp.org/
