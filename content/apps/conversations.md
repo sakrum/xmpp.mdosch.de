@@ -5,13 +5,6 @@ draft: false
 weight: 1
 ---
 
-**ToDo:**
-
-* OMEMO?
-* Auf mehrere Seiten aufsplitten?
-* Adressbuchzugriff?
-* Hinweis auf Einladungsseite
-
 Hier wird die Installation, Einrichtung und Benutzung der Android-App
 **Conversations** beschrieben.
 
@@ -135,6 +128,15 @@ diesen Schritt überspringen.
 ![Conversations Avatar wählen](/images/conversations/avatar2.jpg?height=400px)
 
 ### Benutzung
+
+#### Zugriff auf Kontakte
+
+Zu Beginn fragt Conversations ob es auf das Adressbuch zugreifen darf. Der Zugriff
+wird nicht zwingend benötigt, da Conversations auch ohne funktioniert. Hat man
+aber die **JID**s von Kontakten ins Adressbuch eingepflegt ist es praktisch den
+Zugriff zu erlauben, da diese dann automatisch von Conversations erkannt werden.
+
+![Conversations Zugriff auf Kontakte](/images/conversations/kontaktzugriff.jpg?height=200px)
 
 #### Batterieoptimierung deaktivieren
 
