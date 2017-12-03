@@ -15,9 +15,10 @@ Hier wird die Installation, Einrichtung und Benutzung der Android-App
 Conversations bezieht man am einfachsten aus dem **[Google Play Store][10]** 
 für 2,39€. Dieser Preis ist gemessen an der Qualität der App sehr niedrig
 und ich empfehle jedem ihn auszugeben. Es ist deutlich weniger als ein
-Bier in der Kneipe. Wer gerne Sprachnachrichten versenden möchte installiert
-auch gleich das [Voice Recorder Plugin][20] und wer seinen aktuellen 
-Standort als Sofortnachricht verschicken möchte das [Share Location Plugin][30].
+Bier in der Kneipe oder ein Kaffee im Café. Wer gerne Sprachnachrichten 
+versenden möchte installiert auch gleich das [Voice Recorder Plugin][20] 
+und wer seinen aktuellen  Standort als Sofortnachricht verschicken möchte 
+das [Share Location Plugin][30].
 
 Wenn ihr keine Möglichkeit habt im Play-Store zu bezahlen könnt ihr 
 Conversations aus dem **F-Droid** Store beziehen.  
