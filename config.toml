@@ -5,6 +5,8 @@ DefaultContentLanguage = "de"
 title = "Eine kleine Einführung in XMPP"
 theme = "docdock"
 #themesdir = "../.."
+enableEmoji = true
+
 
 [params]
 editURL = "https://github.com/mdosch/xmpp.mdosch.de/tree/master/content/"

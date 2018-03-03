@@ -3,7 +3,6 @@ title: "Serverwahl"
 date: 2017-11-04T12:54:57+01:00
 draft: false
 weight: 2
-alwaysopen: true
 ---
 
 ## Wer die Wahl hat...
@@ -12,16 +11,17 @@ alwaysopen: true
 
 Es gibt sehr viele XMPP-Server und für einen Neuling ist es sicher schwer eine Wahl zu treffen. 
 Nicht jeder Server unterstützt bereits alle gängigen Features und man möchte ja nicht bei einem Server landen
-der dann Probleme macht. Glücklicherweise haben die *Datenschutzhelden* eine
-[gute Liste mit empfehlenswerten Servern][10] erstellt. Wenn man einen dieser Server wählt macht man
+der dann Probleme macht. Ich habe hier eine
+[Liste mit empfehlenswerten Servern][10] erstellt. Wenn man einen dieser Server wählt macht man
 schon mal nichts falsch. Die finale Auswahl kann man dann treffen indem man einfach den Server aus der
 Liste wählt, dessen Name einem am besten zusagt. Schließlich wird dieser dann ein Teil eurer **JID**,
 eurer XMPP-Adresse, sein.   
-Fortgeschrittene oder Interessierte, die im Detail wissen wollen anhand welcher Kriterien diese Liste
-erstellt wurde, können das bei [den Datenschutzhelden nachlesen][20].   
+<!-- Fortgeschrittene oder Interessierte, die im Detail wissen wollen anhand welcher Kriterien diese Liste
+erstellt wurde, können das bei [den Datenschutzhelden nachlesen][20]. <- Abändern, wenn ich mal die Kriterien
+erläuter -->   
 
-Ein sehr empfehlenswerter Server taucht in dieser Liste leider nicht auf: [conversations.im][25].
-Wahrscheinlich weil dieser Server im Gegensatz zu den anderen nicht kostenlos ist, sondern ein halbes Jahr
+Ein sehr empfehlenswerter Server von dieser Liste ist [conversations.im][25]. Es ist aber zu erwähnen, 
+dass dieser Server im Gegensatz zu den anderen nicht kostenlos ist, sondern ein halbes Jahr
 kostenlos nutzbar ist und danach 8€ pro Jahr kostet. Wer es sich leisten kann sollte einen Account dort
 in Erwägung ziehen. Für die Gebühr erhält man einen Server der vorbildlich gepflegt wird und alle neuen
 Funktionen unterstützt. Conversations.im unterstützt nur [InBand-Registrierung][28].
@@ -61,7 +61,7 @@ beherrschen:
 * macOS: [Swift][90]
 * Windows: [Gajim][80]
 
-[10]:https://datenschutzhelden.org/serverliste/
+[10]:/serverwahl/serverliste/
 [20]:https://datenschutzhelden.org/2017/07/12/daten-sparsame-xmpp-server/
 [25]:https://account.conversations.im
 [28]:/serverwahl/#inband-registrierung

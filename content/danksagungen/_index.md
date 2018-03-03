@@ -14,7 +14,6 @@ jemand vergessen haben dann [teilt mir das bitte mit][10].
 
 ### Helfer dieser Seite
 
-* [Datenschutzhelden][100] - Danke für die Erstellung der Serverliste
 * [DocDock][110] - Danke für dieses schöne Theme
 * [Ge0rg][120] - Danke für die Vorlage der Einladungsseite
 * [Hugo][130] - Danke für diesen einfachen Webseitengenerator
@@ -32,7 +31,6 @@ jemand vergessen haben dann [teilt mir das bitte mit][10].
 
 
 [10]:/invite/#martin@mdosch.de
-[100]:https://datenschutzhelden.org/
 [110]:http://docdock.netlify.com/
 [120]:https://github.com/ge0rg/easy-xmpp-invitation/
 [130]:https://gohugo.io/
