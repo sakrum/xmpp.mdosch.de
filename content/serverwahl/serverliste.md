@@ -35,7 +35,7 @@ Servername | Max. Dateigröße | Speicherdauer | InBand-Registrierung | Web-Regi
 [jabber.hot-chilli.net](https://jabber.hot-chilli.net/) [^1] | 10 MB | 31 Tage | ? | [:heavy_check_mark:](https://jabber.hot-chilli.net/forms/create/) | [:mailbox:](https://jabber.hot-chilli.net/de/)
 [jabjab.de](https://jabjab.de/) | 50 MB | 30 Tage | ? | [:heavy_check_mark:](https://jabjab.de/registrieren.php) | [:mailbox:](https://jabjab.de/kontakt.php)
 [kode.im](https://kode.im/) | ? | ? | :heavy_check_mark: | [:heavy_check_mark:](https://im.koderoot.net/register-on-kode.im) | [:mailbox:](https://kode.im/)
-[magicbroccoli.de](https://magicbroccoli.de/xmpp/) | 25 MB | 31 Tage | ? | [:heavy_check_mark:](https://magicbroccoli.de/register/) | [:mailbox:](https://magicbroccoli.de/contact/)
+[magicbroccoli.de](https://magicbroccoli.de/xmpp/) | 25 MB | 31 Tage | :x: | [:heavy_check_mark:](https://magicbroccoli.de/register/) | [:mailbox:](https://magicbroccoli.de/contact/)
 [pimux.de](https://www.pimux.de/) | 10 MB | 30 Tage | ? | [:heavy_check_mark:](https://www.pimux.de/page/registrierung) | [:mailbox:](https://www.pimux.de/page/kontakt)
 [riotcat.org](https://riotcat.org/) | 10 MB | 14 Tage | :heavy_check_mark: | :x: | [:mailbox:](https://riotcat.org/#contact)
 [simplewire.de](https://simplewire.de/) | 15 MB | 14 Tage | :heavy_check_mark: | [:heavy_check_mark:](https://simplewire.de/register.html) | [:mailbox:](https://simplewire.de/impressum.html)
