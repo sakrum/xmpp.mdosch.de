@@ -6,9 +6,9 @@ weight: 1
 alwaysopen: true
 ---
 
-[XMPP][10] ist ein Chatprotokoll über das Sofortnachrichten ausgetauscht werden können. Das bekannteste
-Programm dieser Art ist WhatsApp, weshalb hier zum besseren Verständnis die Unterschiede zwischen XMPP 
-und WhatsApp aufgezeigt werden.
+[XMPP][10] *(Extensible Messaging and Presence Protocol)* ist ein Chatprotokoll über das Sofortnachrichten 
+ausgetauscht werden können. Das bekannteste Programm dieser Art ist WhatsApp, weshalb hier zum besseren 
+Verständnis die Unterschiede zwischen XMPP und WhatsApp aufgezeigt werden.
 
 Bei WhatsApp muss man sich nicht registrieren sondern wird anhand der Telefonnummer identifiziert und 
 man sieht automatisch welche Kontakte aus dem Telefonbuch auch WhatsApp benutzen. Das ist bei XMPP anders.
