@@ -29,6 +29,7 @@ Unterstützt ein Server **Web-Registrierung** kommt ihr direkt zum Fomular indem
 Servername | Max. Dateigröße | Speicherdauer | InBand-Registrierung | Web-Registrierung | Kontakt
 ------------ | :-------------: | :------------: | :------------: | :------------: | :------------:
 [5222.de](https://5222.de/) | 50 MB | 30 Tage | ? | [:heavy_check_mark:](https://www.jabber.de/anmeldung/) | [:mailbox:](https://www.jabber.de/support/)
+[babbler.im](https://blabber.im) | 500 MB | 3 Tage | :heavy_check_mark: | [:heavy_check_mark:](https://blabber.im/anmelden/) | [:mailbox:](https://blabber.im/kontakt/)
 [conversations.im](https://account.conversations.im/) | 50 MB | 1 Jahr | :heavy_check_mark: | :x: | [:mailbox:](https://account.conversations.im/contact/)
 [dismail.de](https://dismail.de/) | 25 MB | 31 Tage | :heavy_check_mark: | [:heavy_check_mark:](https://dismail.de/register.html) | [:mailbox:](https://dismail.de/contact.html)
 [draugr.de](https://www.draugr.de/) | ? | ? | ? | [:heavy_check_mark:](https://account.draugr.de/) | [:mailbox:](https://www.draugr.de/kontakt/)
