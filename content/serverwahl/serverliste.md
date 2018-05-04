@@ -34,7 +34,7 @@ zu unterstützen.
 Servername | Max. Dateigröße | Speicherdauer | InBand-Registrierung | Web-Registrierung | Kontakt | Kosten / Jahr | Spendenmöglichkeit
 ------------ | :-------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------:
 [5222.de](https://5222.de/) | 50 MB | 30 Tage | ? | [:heavy_check_mark:](https://5222.de/register/) | [:mailbox:](https://xmpp.mdosch.de/invite/#support@muc.5222.de?join) | - | [:euro:](https://5222.de/donate/) |
-[babbler.im](https://blabber.im) | 500 MB | 3 Tage | :heavy_check_mark:  |  [:heavy_check_mark:](https://blabber.im/anmelden/) | [:mailbox:](https://blabber.im/kontakt/) | - | - |
+[blabber.im](https://blabber.im) | 500 MB | 3 Tage | :heavy_check_mark:  |  [:heavy_check_mark:](https://blabber.im/anmelden/) | [:mailbox:](https://blabber.im/kontakt/) | - | - |
 [conversations.im](https://account.conversations.im/) | 50 MB | 1 Jahr | :heavy_check_mark: | :x: | [:mailbox:](https://account.conversations.im/contact/) | 8 € | [:euro:](https://conversations.im/#donate)
 [dismail.de](https://dismail.de/) | 25 MB | 31 Tage | :heavy_check_mark: | [:heavy_check_mark:](https://dismail.de/register.html) | [:mailbox:](https://dismail.de/contact.html) | - | [:euro:](https://dismail.de/donate.html) |
 [draugr.de](https://www.draugr.de/) | ? | ? | ? | [:heavy_check_mark:](https://account.draugr.de/) | [:mailbox:](https://www.draugr.de/kontakt/) | - | - |
