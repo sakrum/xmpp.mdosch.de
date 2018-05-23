@@ -12,12 +12,13 @@ Verständnis die Unterschiede zwischen XMPP und WhatsApp aufgezeigt werden.
 
 Bei WhatsApp muss man sich nicht registrieren sondern wird anhand der Telefonnummer identifiziert und 
 man sieht automatisch welche Kontakte aus dem Telefonbuch auch WhatsApp benutzen. Das ist bei XMPP anders.
-XMPP funktioniert eher wie Email: Es gibt verschiedene Server bei denen man sich anmelden kann und man 
-erhält dann eine Adresse in der Form *user@example.org*.
-In diesem Beispiel hätte man sich einen Account mit dem Benutzernamen *user* auf dem Server *example.org* 
-angelegt.
+XMPP funktioniert eher wie Email: So wie es viele e-Mail Adressen gibt (GMX, GMail, web.de, Outlook, 
+Hotmail, etc.) gibt es auch bei **XMPP** verschiedene Adressen. Die sehen wie e-Mail Adressen aus:
+z.B. *user@example.org*.
 Diese Adresse, die aussieht wie eine Email-Adresse, heißt bei bei XMPP **Jabber Identifier** und wird
 mit **JID** abgekürzt.
+Und genau wie man sich auch eine e-Mail Adresse bei einem Anbieter wie eben GMX, web.de oder GMail holt,
+macht man das bei einem Anbieter von **XMPP** Adressen oder eben **JID**.
 
 Diese **JID** könnt ihr nun Kontakten geben und diese können euch zu ihrer Kontaktliste hinzufügen und
 mit euch Nachrichten austauschen. Dies funktioniert auch wenn ihr euren XMPP-Account auf unterschiedlichen 
