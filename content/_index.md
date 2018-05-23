@@ -14,9 +14,10 @@ Du weißt nicht was XMPP ist und wie man es benutzt?
 
 Keine Sorge, diese Seite ist dafür da dies zu erklären und so kompliziert ist es auch nicht.
 
-Es gibt viele Dienste für Sofortnachrichten wie z.B. WhatsApp, Telegram, Threema, Signal, Line, WeChat,
-Viber und wahrscheinlich viele mehr. Ein Protokoll für Sofortnachrichten, dass es schon lange gibt
-das aber leider viele nicht kennen ist **XMPP**, teilweise auch **Jabber®** genannt.
+Es gibt viele Anbieter für Sofortnachrichten wie z.B. WhatsApp, Telegram, Threema, Signal, Line, WeChat,
+Viber und wahrscheinlich viele mehr. Eine weitere Möglichkeit Sofortnachrichten zu senden ist **XMPP**, 
+teilweise auch **Jabber®** genannt. **XMPP** gibt es schon sehr lange. Es ist so einfach wie e-Mail und
+wer e-Mail kann, kann auch **XMPP**.
 
 Diese Seite soll Interessierte, die XMPP nutzen möchten, sich damit aber noch nicht auskennen, ein 
 bisschen an die Hand nehmen und den Einstieg erleichtern. Wer bereits XMPP nutzt wird hier vermutlich 
